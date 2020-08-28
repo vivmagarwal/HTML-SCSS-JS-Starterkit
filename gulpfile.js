@@ -42,9 +42,10 @@ gulp.task('styles', function styles(){
       .pipe(browserSync.stream());
 });
 
-gulp.task('default', async function () {
-  console.log('horray');
-});
+gulp.task('default', 
+  gulp.series(
+    gulp.parallel('html','scripts','styles')
+));
 
 gulp.task('cssInject',  function cssInject() {
   return gulp.src('src/**/*.scss')

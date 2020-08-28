@@ -7,7 +7,8 @@ clone the repository
 run `npm install`
 
 once install completes
-run `gulp watch`
+- run `gulp` to build all SCSS and JS files to the `build` directory.
+- run `gulp watch`
 
 Make changes in src folder
     - index.html

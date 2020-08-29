@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16">
+  <defs>
+    <symbol id="a" viewBox="0 0 7 7">
+      <path fill="#999" d="M7 2.63v1.74h-7v-1.74h7z"/>
+      <path fill="#999" d="M2.63 0h1.74v7h-1.74v-7z"/>
+    </symbol>
+  </defs>
+  <title>expand-close</title>
+  <use width="7" height="7" transform="translate(4.5 4.5)" xlink:href="#a"/>
+</svg>

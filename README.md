@@ -15,4 +15,4 @@ Make changes in src folder
     - script-es6.js
     - style.scss
     
-these files will automatically compile to the `build` directory. Browser will automatically reload / refresh on change. 
+These files will automatically compile to the `build` directory. Browser will automatically reload / refresh on change. 

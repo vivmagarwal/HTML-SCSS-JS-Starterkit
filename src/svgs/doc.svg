@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="18">
+  <defs>
+    <symbol id="a" viewBox="0 0 19.88 17.93">
+      <path fill="#ccc" d="M1.95 0h17.93v17.93h-17.93z"/>
+      <path fill="#0d7df8" d="M0 0h2.11v17.93h-2.11z"/>
+      <path d="M16.39 5.37l-.74.09-1.82 7.82h-1.68l-1.65-5.93-1.69 5.94h-1.67l-1.84-7.82-.74-.09v-1.09h3.32v1.08l-.82.14 1 4.93 1.75-6.15h1.33l1.7 6.17 1-4.93-.82-.14v-1.1h3.31z" fill="#fff"/>
+    </symbol>
+  </defs>
+  <title>doc</title>
+  <use width="19.88" height="17.93" transform="translate(.06 .04)" xlink:href="#a"/>
+</svg>
